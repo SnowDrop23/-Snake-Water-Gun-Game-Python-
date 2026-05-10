@@ -21,9 +21,9 @@ Make sure you have Python 3 installed, then run:
 python main.py
 ```
 You'll be asked to enter:
-- 0 for Snake
-- 1 for Water
-- 2 for Gun
+* 0 for Snake
+* 1 for Water
+* 2 for Gun
 The computer picks randomly. Your score is tracked across rounds until you choose to quit.
 
 ---
