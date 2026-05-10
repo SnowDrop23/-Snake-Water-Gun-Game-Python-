@@ -21,14 +21,12 @@ Make sure you have Python 3 installed, then run:
 python main.py
 ```
 You'll be asked to enter:
-
 - 0 for Snake
 - 1 for Water
 - 2 for Gun
-
 The computer picks randomly. Your score is tracked across rounds until you choose to quit.
----
 
+---
 
 ## How the Logic Works
 The result is looked up from a 2D table where rows are the player's choice and columns are the computer's choice.
