@@ -18,7 +18,7 @@ A simple command-line game built in Python where you play Snake, Water, Gun agai
 
 Make sure you have Python 3 installed, then run:
 ```
-python snake_water_gun.py
+python main.py
 ```
 You'll be asked to enter:
 
@@ -59,8 +59,3 @@ Gun    [   Win,  Lose, Draw ]
 - Conditional logic
 
 ---
-
-## ▶️ Run the Game
-
-```bash
-python main.py
